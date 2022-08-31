@@ -1,0 +1,25 @@
+body{
+    background-color: none !important;
+}
+.header{
+    text-align: center;
+}
+
+.container{
+    background-color: transparent;
+    margin-top: 50px;
+    border: 1px solid #666;
+    border-radius: 15px;
+}
+
+label{
+    display: block;
+}
+
+.field{
+    flex-basis: calc(100% / 2 - 1.5rem / 2);
+}
+
+.field label{
+    font-weight: bold;
+}
